@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Tax Form</title>
+	<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+	<h1>A/V Web Site</h1>
+	<form action="processAVdata.pl">
+		<label for="name">Customer name:</label><br>
+		<input type="text" id="name" name="name" value = "john doe"><br>
+		<label for="date">Date:</label><br>
+		<input type="date" id="date" name="date" value = "2024-02-06"><br><br>
+		<label for="time">Time:</label><br>
+		<input type="time" id="time" name="time"i value = "09:07"><br>
+
+		<p>Rent:</p>
+		<input type="radio" id="laptop" name = "item" value="L">
+		<label for="single">Laptop ($3.50)</label><br>
+		<input type="radio" id="projector" name = "item" value="P">
+		<label for="married">Projector ($2.75)</label><br>
+		<input type="radio" id="both" name = "item" value="B" checked>
+		<label for="married">Both ($5.25)</label><br><br>
+		
+		<label for="hours">Hours:</label><br>
+		<input type="number" id="hours" name="hours" min=1 value=1><br>
+
+		<input type="submit" value="Rent It">
+	</form>
+</body>
+
+</html>

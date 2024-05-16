@@ -1,0 +1,23 @@
+<!--
+References: https://www.w3schools.com/html/html_images.asp
+			https://www.tpgi.com/using-the-html-lang-attribute/
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>About Me</title>
+	<link rel="stylesheet" href="./style.css" type="text/css">
+</head>
+
+<body>
+	<h1>About Me</h1>
+	<p>My name is Lucas Hasting. I am a senior majoring in Computer Science at the University of North Alabama. I am
+		from Decatur Alabama.</p>
+	<p>Check out my tax form here: <a href="./form.html">tax form</a>.</p>
+	<img src="./images/profile.jpg" alt="Lucas Hasting">
+</body>
+
+</html>

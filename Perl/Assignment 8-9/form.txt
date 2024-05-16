@@ -1,0 +1,38 @@
+<!--
+References: https://www.w3schools.com/html/html_forms.asp
+			https://www.w3schools.com/tags/att_input_type_radio.asp 
+			https://sentry.io/answers/html-text-input-allow-only-numeric-input/
+			https://www.tpgi.com/using-the-html-lang-attribute/
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Tax Form</title>
+	<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+	<h1>Tax Form</h1>
+	<form action="taxs.pl">
+		<label for="name">Name:</label><br>
+		<input type="text" id="name" name="name" value="John Doe"><br>
+		<label for="stateIncomeTaxWitheld">State Income Tax Withheld:</label><br>
+		<input type="number" id="stateIncomeTaxWitheld" name="stateIncomeTaxWitheld" min=0 value=500><br>
+		<label for="annualWages">Annual Wages:</label><br>
+		<input type="number" id="annualWages" name="annualWage" min=0 value=6000><br><br>
+
+		<p>Select Filing Status:</p>
+		<input type="radio" id="single" value = "Single" name = "status" checked>
+		<label for="single">Single</label><br>
+		<input type="radio" id="married" value = "Married" name = "status">
+		<label for="married">Married filing jointly</label><br><br>
+
+		<input type="submit" value="Submit">
+	</form>
+	<p>Learn more about me <a href="./index.html">here</a>.</p>
+</body>
+
+</html>

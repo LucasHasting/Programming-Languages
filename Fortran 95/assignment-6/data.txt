@@ -1,0 +1,60 @@
+Kyle
+Bob
+kyle@microsoft.com
+(111) 111-1111
+25
+25.00
+Jimmy 
+John
+jimmy@john.com
+(256) 768-9994
+41
+1.00
+John 
+Doe
+john@disney.com
+(000) 000-0000
+37
+132.00
+Mickey 
+Mouse
+mickey@disney.com
+(333) 456-6789
+37
+11.00
+Bob 
+Kyle
+bob@school.edu
+(333) 456-5465
+50
+2.00
+Pluto
+Dog
+pluto@disney.com
+(333) 444-6789
+37
+0.00
+Goofy
+Goofy
+goofy@disney.com
+(333) 333-6789
+37
+0.00
+Joe
+Biden
+Joe@usa.com
+(202) 234-5678
+81
+1000.00
+Minney
+Mouse
+minney@disney.com
+(333) 456-6790
+37
+123.30
+Donald
+Duck
+donald@disney.com
+(444) 511-8888
+34
+0.00
