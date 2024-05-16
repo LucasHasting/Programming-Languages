@@ -1,2 +1,2 @@
 # Programming-Languages
-This repository will hold files from my Programming Languages class.
+This repository holds files from my Programming Languages class.
