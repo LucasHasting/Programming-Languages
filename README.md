@@ -14,3 +14,5 @@ Ruby [class files](Ruby), [installation](https://www.ruby-lang.org/en/downloads/
 Prolog [class files](Prolog) and [installation](https://www.swi-prolog.org/download/stable).
 
 Racket [class files](Racket), [installation](https://racket-lang.org/download/), and [usage](https://docs.racket-lang.org/getting-started/).
+
+Download the files: download the repo by downloading the [ZIP](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github) or by using [git](https://docs.github.com/en/get-started/using-git/about-git).
